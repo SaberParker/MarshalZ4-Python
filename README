@@ -12,6 +12,14 @@ Numbers Time
 2 Round - List 1.68728590012 (s)
 3 Round - Int Flawless 0.133377075195 (s)
 
+Couple of test i ve done on Mac OSX 10.7.2 @1.47 GHz Intel Core 2 Duo / 2 GB Ram
+string_t = 'uh5! uh5! ,it could be worst quote from IronMan movie'
+
+MZ4 Vs LZ4 = 0 - 1 (∼2.6 faster
+MZ4 Vs Snappy = 1 - 0 (∼1.2 faster)
+MZ4 Vs cPickle = 1 - 0 (∼14 faster)
+MZ4 Vs Avro = 1 - 0 (∼ 28 faster)
+
 Challenges
 ------------
 
