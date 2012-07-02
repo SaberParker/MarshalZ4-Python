@@ -20,7 +20,7 @@ Currently only 1 dump per file.
 Next?
 ------------
 
-Complete infint dump data per file, tryout with MurmurHash 3 as hashing.
+Complete infinite dump data per file, tryout with MurmurHash 3 as hashing.
 
 
 Usage
