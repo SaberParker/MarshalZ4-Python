@@ -2,13 +2,13 @@ MarshalZ4-Python
 =============
 
 MarshalZ4-Python is an implementation of pure python Marshal.In facts, MarshalZ4 is an extremely fast data dump.
-here is what MarshalZ4 can do:
+Here is what MarshalZ4 can do:
 
 Numbers Time
 ------------
 1 million = 1000000 iterat(s) for each
 
-1 Round - Dictionnary: 4.12160801888 (s)
+1 Round - Dictionary: 4.12160801888 (s)
 2 Round - List 1.68728590012 (s)
 3 Round - Int Flawless 0.133377075195 (s)
 
@@ -19,6 +19,8 @@ MZ4 Vs LZ4 = 0 - 1 (∼2.6 faster
 MZ4 Vs Snappy = 1 - 0 (∼1.2 faster)
 MZ4 Vs cPickle = 1 - 0 (∼14 faster)
 MZ4 Vs Avro = 1 - 0 (∼ 28 faster)
+
+http://next-python.blogspot.com/
 
 Challenges
 ------------
